@@ -1,3 +1,14 @@
+<img width="1631" alt="Screenshot 2022-12-26 at 14 32 38" src="https://user-images.githubusercontent.com/104509240/209554392-62a012ba-c84e-4c73-97d5-ae1b17e6bb24.png">
+
+<img width="1627" alt="Screenshot 2022-12-26 at 14 32 47" src="https://user-images.githubusercontent.com/104509240/209554402-190831c1-ccac-4fe9-a209-6728ffe04018.png">
+
+<img width="1642" alt="Screenshot 2022-12-26 at 14 32 58" src="https://user-images.githubusercontent.com/104509240/209554406-d6241b9e-a2fc-4b6f-9cee-b0852b83547c.png">
+
+<img width="1636" alt="Screenshot 2022-12-26 at 14 33 12" src="https://user-images.githubusercontent.com/104509240/209554411-cc8e0905-1679-4322-b6aa-c959cbd7389d.png">
+
+
+
+
 # Getting Started with Create React Index
 
 This project was bootstrapped with [Create React Index](https://github.com/facebook/create-react-app).
